@@ -1,0 +1,10 @@
+edge-tts
+groq
+PyAudio
+pyautogui
+pygame
+pywhatkit
+python-dotenv
+requests
+SpeechRecognition
+Telethon
